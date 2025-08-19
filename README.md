@@ -21,6 +21,6 @@ Este projeto demonstra como automatizar tarefas no Excel com Python, como ler, e
 4. Os dados serão processados e salvos em um novo arquivo Excel.
 
 ## 📌 Exemplo de Uso
-Organizar e limpar dados de uma planilha.
-Criar novas colunas automaticamente.
-Gerar relatórios em Excel.
+- Organizar e limpar dados de uma planilha.
+- Criar novas colunas automaticamente.
+- Gerar relatórios em Excel.
