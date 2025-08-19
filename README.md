@@ -17,10 +17,7 @@ Este projeto demonstra como automatizar tarefas no Excel com Python, como ler, e
    pip install pandas openpyxl
 2. Coloque seu arquivo Excel (dados.xlsx) na mesma pasta do script.
 3. Execute:
-bash
-Copiar
-Editar
-python automacao_excel.py
+`python automacao_excel.py`
 4. Os dados serão processados e salvos em um novo arquivo Excel.
 
 ## 📌 Exemplo de Uso
